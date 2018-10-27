@@ -164,7 +164,7 @@ sudo cp WeatherPi_TFT_Service.sh /etc/init.d/WeatherPiTFT
 sudo cp PiButtons_Service.sh /etc/init.d/PiButtons
 sudo chmod +x /etc/init.d/WeatherPiTFT
 sudo chmod +x /etc/init.d/PiButtons
-sudo chmod +x Weatherpi_TFT.py
+sudo chmod +x WeatherPi_TFT.py
 sudo chmod +x PiButtons.py
 ```
 
